@@ -12,4 +12,3 @@
 - User Profile
 - Dark Mode Support
 - Internationalization & Localization (e.g. Arabic/English language)
-
